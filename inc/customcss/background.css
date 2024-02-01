@@ -1,0 +1,16 @@
+.sidebar-dark-primary .nav-sidebar>.nav-item>.nav-link.active, .sidebar-light-primary .nav-sidebar>.nav-item>.nav-link.active {
+  background-color: #2f4d6a!important;
+}
+.bg-active {
+  color: white!important;
+  background-color: #3e668e;
+}
+
+.custom_background, .content-wrapper {
+  background-image: linear-gradient(45deg, rgba(0,0,0,0.6) 43%, rgba(237,161,14,0.4) 100%), url('/inc/img/bg.jpg');
+  background-position: 0% 0%, center;
+  background-repeat: repeat, no-repeat;
+  background-size: cover, cover;
+  background-attachment: scroll;
+  background-color: #000000;
+}
